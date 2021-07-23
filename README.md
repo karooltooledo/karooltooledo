@@ -10,5 +10,3 @@ Get in touch with me through the attached links:
 </a>
 
   ![Snake animation](https://github.com/karooltooledo/karooltooledo/blob/output/github-contribution-grid-snake.svg)
- 
-</div>

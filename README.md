@@ -7,6 +7,7 @@ Bem Vindos ao meu perfil do GitHub!😜
  <div>
   <a href="https://github.com/karooltooledo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karooltooledo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="right" alt="Karol-Toledo" height="250" width="250"src="https://cdn.discordapp.com/attachments/860204652707708969/870820103002923008/picasion.com_33e6eeda901dfb78e2c985f673b8ca7e.gif">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Karol-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -15,7 +16,7 @@ Bem Vindos ao meu perfil do GitHub!😜
   <img align="center" alt="Karol-Ex" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img align="center" alt="Karol-PPT" height="30" width="100" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
   <img align="center" alt="Karol-Word" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
-  <img align="right" alt="Karol-Toledo" height="250" width="250"src="https://cdn.discordapp.com/attachments/860204652707708969/870820103002923008/picasion.com_33e6eeda901dfb78e2c985f673b8ca7e.gif">
+
 </div>
   
   

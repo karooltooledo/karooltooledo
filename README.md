@@ -12,9 +12,9 @@ Bem Vindos ao meu perfil do GitHub!😜
   <img align="center" alt="Karol-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Karol-Spring" height="30" width="80" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img align="center" alt="Karol-MySQL" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Karol-Ex" height="30" width="80" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img align="center" alt="Karol-PPT" height="30" width="80" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-  <img align="center" alt="Karol-Word" height="30" width="80" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+  <img align="center" alt="Karol-Ex" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img align="center" alt="Karol-PPT" height="30" width="100" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+  <img align="center" alt="Karol-Word" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
   <img align="right" alt="Karol-Toledo" src="https://cdn.discordapp.com/attachments/860204652707708969/870820103002923008/picasion.com_33e6eeda901dfb78e2c985f673b8ca7e.gif">
 </div>
   

@@ -22,7 +22,7 @@ Bem Vindos ao meu perfil do GitHub!😜
   
   
   <div> 
-  <a href="karoltoledo71@hotmail.com"target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:karoltoledo71@hotmail.com">target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  	<a href="https://www.linkedin.com/in/karoline-toledo-1a76a2153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
    

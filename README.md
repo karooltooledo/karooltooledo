@@ -19,8 +19,7 @@ Bem Vindos ao meu perfil do GitHub!😜
   <img align="center" alt="Karol-Word" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
 
 </div>
-  
-  ##Contatos
+ 
  
   <div> 
   <a href = "mailto:karoltoledo71@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
